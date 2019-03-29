@@ -1,6 +1,6 @@
-#AgricultureSS基于Simple-WeiBo-System demo
-#根据自己的需求做了改进
-#原参考github地址：https://github.com/zhulinyin/Simple-WeiBo-System
+# AgricultureSS基于Simple-WeiBo-System demo
+# 根据自己的需求做了改进
+# 原参考github地址：https://github.com/zhulinyin/Simple-WeiBo-System
 
 
 # Simple-WeiBo-System
